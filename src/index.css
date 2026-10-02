@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-milk: #FFF3E6;
+  --color-plum: #381932;
+  --color-plum-light: #5A2D52;
+  --color-accent: #FF5A1F;
+  --font-display: "Bebas Neue", sans-serif;
+  --font-sans: "Inter", sans-serif;
+}
+
+body {
+  background-color: #FFF3E6;
+  color: #381932;
+  font-family: "Inter", sans-serif;
+  margin: 0;
+}
